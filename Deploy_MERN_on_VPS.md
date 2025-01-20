@@ -59,7 +59,7 @@ sudo mkdir /var/www
  cd /var/www
 ```
 ```bash
- git clone https://github.com/yourusername/your-repo.git
+sudo git clone https://github.com/yourusername/your-repo.git
 ```
 ```bash
  cd your-repo/backend
