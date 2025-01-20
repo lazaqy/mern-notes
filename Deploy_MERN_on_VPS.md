@@ -12,7 +12,7 @@
 - Setting Up SSL Certificates
 ### 1. Preparing the VPS Environment
 
-#### Get you VPS Hosting here : [Hostinger VPS](https://greatstack.dev/go/hostinger-vps)
+#### Get you VPS Hosting here : [Hostinger VPS](https://www.hostinger.co.id/cart?product=vps%3Avps_kvm_2&period=12&referral_type=cart_link&REFERRALCODE=AAANURULJWRY&referral_id=01948163-eecc-716a-bbab-9ed862e64c11)
 
 Log in to Your VPS in Terminal 
 
@@ -45,7 +45,7 @@ Install Git
 
 ###  2. Setting Up the MongoDB Database
 
-If you want to setup MongoDB on VPS Follow this Guide: [click here](https://github.com/GreatStackDev/notes/blob/main/MongoDB_Setup_on_VPS.md)
+If you want to setup MongoDB on VPS Follow this Guide: [click here](https://github.com/lazaqy/mern-notes/blob/main/MongoDB_Setup_on_VPS.md)
 
 ### 3. Deploying the Express and Node.js Backend
 
