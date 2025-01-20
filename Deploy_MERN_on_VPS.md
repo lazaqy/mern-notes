@@ -52,7 +52,7 @@ If you want to setup MongoDB on VPS Follow this Guide: [click here](https://gith
 Clone Your Backend Repository
 
 ```bash
- mkdir /var/www
+sudo mkdir /var/www
 ```
 
 ```bash
